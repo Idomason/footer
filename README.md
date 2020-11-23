@@ -1,2 +1,2 @@
-# footer_web_app
+# footer
 A simple web footer
